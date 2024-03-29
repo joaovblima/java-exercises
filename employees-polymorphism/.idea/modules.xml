@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/employee-polymorphism.iml" filepath="$PROJECT_DIR$/employee-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employees-polymorphism.iml" filepath="$PROJECT_DIR$/employees-polymorphism.iml" />
     </modules>
   </component>
 </project>
