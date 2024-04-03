@@ -20,7 +20,7 @@ public class Program {
 
 
         System.out.println("Entre com os dados do aluguel");
-        System.out.print("Car model: ");
+        System.out.print("Modelo do carro: ");
         String carModel = sc.nextLine();
         System.out.print("Retirada (dd/MM/yyyy HH:mm): ");
         LocalDateTime start = LocalDateTime.parse(sc.nextLine(), fmt);
