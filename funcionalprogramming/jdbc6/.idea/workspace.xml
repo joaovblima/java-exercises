@@ -17,7 +17,8 @@
       <change afterPath="$PROJECT_DIR$/../jdbc5/jdbc3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc5/jdbc4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc5/jdbc5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc4/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc4/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/java/java-exercises/funcionalprogramming",
+    "last_opened_file_path": "C:/java/java-exercises/funcionalprogramming/jdbc6",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
